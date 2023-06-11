@@ -20,3 +20,6 @@ Un perfil de usuario donde poder ver los datos del usuario registrado, además d
 ![image](https://github.com/josemhDev/proyecto_integrado_web/assets/120911753/b78464f4-0a44-4a73-b39e-dbbbd0621447)
 ![image](https://github.com/josemhDev/proyecto_integrado_web/assets/120911753/43d3d12e-88df-437a-8e60-56ce02dcc150)
 ![image](https://github.com/josemhDev/proyecto_integrado_web/assets/120911753/15c69582-d81b-4382-be0d-42c33f5c2de8)
+
+## Enlaze a la web
+https://calm-pithivier-d4f508.netlify.app
